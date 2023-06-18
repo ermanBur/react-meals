@@ -28,6 +28,7 @@ const Cart = (props) => {
         />
       ))}
     </ul>
+    adlasmdas
   );
 
   return (
